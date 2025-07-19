@@ -288,4 +288,9 @@ ul li {
         
         justify-content: center;
     }
+    .feature{
+        flex-direction: column-reverse;
+        text-align: center;
+        padding: 20px;
+    }
 }
